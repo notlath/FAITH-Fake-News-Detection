@@ -1,0 +1,66 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables / secrets
+.env
+.env.*
+secrets.env
+
+# Logs
+*.log
+logs/
+
+# Database
+*.sqlite3
+*.db
+
+# Large project artifacts (keep out of git)
+trained_model
+Vectorizer
+trained_model.*
+Vectorizer.*
+
+# Raw / large data (optional — uncomment if you prefer not to commit datasets)
+# Data_RealFake/
+# Vectorizer_data/
+# trained_model/
+
+# Optional: lockfiles or local tool state
+poetry.lock
+pip-wheel-metadata/

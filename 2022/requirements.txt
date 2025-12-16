@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+nltk
+lxml
+scikit-learn
+streamlit
+firecrawl-py
+python-dotenv
