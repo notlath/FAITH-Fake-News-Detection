@@ -374,11 +374,11 @@ The main objective of this project is to provide a tool that can assess and dist
 
 ### Confusion Matrix for CountVectorizer Pipeline
 
-![CountVectorizer Results](count.png)
+![CountVectorizer Results](outputs/figures/count.png)
 
 ### Confusion Matrix for TF-IDF Vectorizer Pipeline
 
-![TF-IDF Results](TF.png)
+![TF-IDF Results](outputs/figures/TF.png)
 
 **Key Findings:**
 
